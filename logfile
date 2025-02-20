@@ -1,0 +1,17 @@
+[33mcommit ffc9b014c1fe8f1513cc7151bbbe541d105e2178[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ianlester <h352774@gmail.com>
+Date:   Thu Feb 20 11:46:43 2025 +0800
+
+    3rd commit - Updated Reflection.txt contents
+
+[33mcommit ff9c92a1fbdf4bc8eb591dc2931ff62566549a82[m
+Author: ianlester <h352774@gmail.com>
+Date:   Thu Feb 20 11:24:13 2025 +0800
+
+    2nd commit - Added a new text file
+
+[33mcommit d345332cc3faf526296a9695268ae461490ad940[m
+Author: Ian Lester <ianlesterlesigues357@gmail.com>
+Date:   Thu Feb 20 11:03:18 2025 +0800
+
+    Initial commit - Development environment setup
