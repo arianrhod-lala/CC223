@@ -1,1 +1,8 @@
-reflection test 2
+App Dev Reflection by Ian (me)
+
+This has been hectic for me. One of the challenges was after committing the initial commit for my repository, 
+I was surprised to see my old github account committed this to the github account I used for this subject. 
+Thankfully, stack overflow came to my rescue as the simple fix was the configuration of the git global username
+and password. Other than that, I did not run into more issues during setup. I am writing this here in a text file
+so I can also commit this to my repo, but I am also going to make this into a .docx file to submit later. That's 
+all for now. 
